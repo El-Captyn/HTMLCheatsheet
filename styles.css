@@ -1,0 +1,47 @@
+
+html{
+    background-color: rgb(243, 203, 70);
+}
+
+h1{
+    text-align: center;
+    font-family: 'MonoSpace', Arial, Helvetica, sans-serif;
+}
+
+h2{
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+table{
+    position: relative;
+    left: 500px;
+    text-align: center;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+
+tr{
+    border: 1px solid black;
+}
+
+#BoxModel{
+    color:rgb(243, 203, 70);
+    font-weight: 1000;
+}
+
+.background{
+    background-color: rgb(152, 103, 197);
+}
+
+.Description{
+    background-color: rgb(152, 103, 197);
+}
+
+.Special{
+    font-family:Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    color:rgb(123, 179, 34);
+    letter-spacing: 0.085em;
+}
